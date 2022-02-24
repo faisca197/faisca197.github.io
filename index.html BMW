@@ -1,0 +1,46 @@
+<!Doctype html>
+<html>
+  <head>
+    <title>BMW M3 Copeticion</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head>
+  <body>
+    <div id="encabezado">
+      <h1>CarsRfun</h1>
+    </div>
+    <div id="topnav">
+      <a href="#">Marcas</a>
+      <a href="#">Modelos</a>
+      <a href="#">Hola</a>
+    </div>
+    <div id="info">
+      <h1>BMW M3 Competicion</h1>
+      <p>The M3 is a legend in the world of performance cars, causing enthusiasts to gush over its visceral engines and razor-sharp handling. That legend, by the way, started all the way back in 1986 when the first M3—a performance edition of the similarly beloved E30 3-series—hit the scene. Despite the fact that the first one was offered only as a coupe, today's M3 comes only as a sedan; coupe and convertibles now wear the M4 badge.
+<br>
+<br>     
+        Performance is similar to that of the M4 CS, with 62mph reached from rest in a dizzying 3.9sec (compared with 4.3sec for the standard M3), helped by sticky Michelin Pilot Cup 2 tyres. Ordinarily the M3 is limited to 155mph, but the CS has the electronic buffers removed as standard, for a top speed of 173mph.
+<br>
+<br>
+The suspension set-up is firmer than the standard car, and the adaptive dampers have been recalibrated to suit the characteristics of the tyres.
+      </p>
+    <img src=https://s.aolcdn.com/commerce/autodata/images/USC80BMC111A021001.jpg width="500px">
+      <h3>Specs:</h3>
+      <li>Engine: twin-turbo 3.0L inline-six </li>
+      <li>Horsepower: 453 hp</li>
+      <li>Torque: 443 lb-ft</li>
+      <li>0-60 mph: 3.9 seconds</li>
+      <li>Top Speed: 155 mph</li>
+      <li>Transmission: 7-Speed</li>
+      <li>Price: 98,250</li>
+    </div>
+    <div id="footer">
+      <h3>Referencias:</h3>
+      <a href="https://www.autoblog.com/buy/2018-BMW-M3-CS__4dr_Rear_wheel_Drive_Sedan/specs/">autoblog</a>
+      <br>
+      <a href="https://www.caranddriver.com/bmw/m3-2018">caranddriver</a>
+      <br>
+      <a href= "https://www.carmagazine.co.uk/car-reviews/bmw/bmw-m3-cs-2018-review/">carmagazine</a>
+    </div>
+  </body>
+</html>
