@@ -2,6 +2,12 @@
   box-sizing: border-box;
   font-family: Arial;
 }
+#encabezado{
+ background-color: #333;
+ padding: 10px;
+ color: white;
+ border: solid white;
+}
 body{
   margin: 10px;
 }
@@ -10,7 +16,8 @@ body h1{
 }
 #topnav{
   overflow: hidden;
-  background-color: #333
+  background-color: #333;
+  border: solid white;
 }
 #topnav a{
   float: left;
@@ -27,10 +34,11 @@ body h1{
 #info{
   background-color: #59cdff;
   padding: 20px;
-  border: solid black;
+  border: solid white;
 }
 #footer{
   background-color:#333;
   padding:20px;
   color:white;
+  border: solid white;
 }
